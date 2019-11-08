@@ -1,0 +1,18 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "none",
+    "noEmitOnError": true,
+    "noImplicitAny": false,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es2015",
+    "types": [
+      "rxjs"
+    ],
+    "skipLibCheck": true
+  },
+  "exclude": [
+
+  ]
+}
